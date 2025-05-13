@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-yadav25&label=Profile%20views&color=0e75b6&style=flat" alt="akash-yadav25" /> </p>
 
-- 🌱 I’m working on **Agentic AI**
+- 🌱 I’m currently working on **Agentic AI**
 
 - 📫 How to reach me **akashyadav625@gmail.com**
 
