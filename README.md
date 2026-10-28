@@ -18,7 +18,7 @@
 - **Agentic AI systems** — workflows that plan, use tools, coordinate agents, and carry tasks through multiple steps.
 - **RAG and intelligent search** — applications that retrieve relevant information from enterprise data and use it to generate grounded answers.
 - **AI backend systems** — modular services, APIs, ingestion pipelines, and integrations that make AI applications useful beyond a demo.
-- **Document intelligence** — turning unstructured documents into searchable, structured information.
+- **Unstructured data extraction** — extracting meaningful, structured information from complex PDFs, DOCX, and PPTX files using open-source tools like Docling and cloud services like Azure AI Document Intelligence.
 
 ### How I think about engineering
 
