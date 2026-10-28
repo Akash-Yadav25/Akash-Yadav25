@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Akash Yadav 👋</h1>
-<h3 align="center">Full-Stack AI Engineer | Python · Azure · Generative AI</h3>
+<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
+<h3 align="center">Software Engineer, AI/ML | Agentic AI · LLMs · RAG · Cloud-Native Systems</h3>
 
 <p align="center">
-  I build end-to-end applications that combine AI, reliable backend systems, data pipelines, and intuitive user experiences.
+  I build production-oriented AI systems—from multi-agent orchestration and RAG pipelines to scalable APIs, enterprise search, and intelligent document processing.
 </p>
 
 <p align="center">
@@ -18,40 +18,72 @@
 
 ### 👨‍💻 About Me
 
-- I develop **AI-powered applications** from data ingestion and processing through APIs and user interfaces.
-- I’ve worked with **Azure OpenAI, Azure AI Search, Azure Document Intelligence, and Databricks** to build practical AI and data solutions.
-- I build backend services and web experiences with **Python, Node.js/Express, React, and PostgreSQL**.
-- 🌱 Currently exploring **Agentic AI**, LLM workflows, and tool-using AI systems.
-- 📫 Reach me at **[akashyadav625@gmail.com](mailto:akashyadav625@gmail.com)**.
+- **Software Engineer, AI/ML at Gartner**, building AI orchestration and multi-agent research systems.
+- Experienced in **Agentic AI, LLM applications, RAG, vector search, and enterprise AI architecture**.
+- Build modular AI services and production workflows using **Python, LangChain, LangGraph, FastAPI, Azure, and AWS**.
+- Enjoy taking AI solutions end to end—from ingestion and retrieval to APIs, security, deployment, and integration.
+- 📫 **Email:** [akashyadav625@gmail.com](mailto:akashyadav625@gmail.com)
 
-### 🚀 Engineering Work
+### 💼 Experience & Impact
 
-- **Grounded AI Q&A (RAG):** Built a chatbot with Azure AI Search and Azure OpenAI, supported by a Databricks ingestion pipeline and a custom web interface.
-- **Intelligent Document Processing:** Trained and integrated an Azure Document Intelligence model to extract structured contract fields, loading the extracted data into Azure PostgreSQL and storing source documents in Azure Blob Storage.
-- **Full-Stack Application Development:** Build web interfaces and backend APIs that connect user workflows, business data, and cloud services.
+#### Gartner — Software Engineer, AI/ML
+*Nov 2025 – Present · Gurugram, India*
 
-### 🛠️ Tech Stack
+- Architected a **unified AI orchestration framework** for intent-driven execution of **15+ autonomous and deterministic enterprise workflows**.
+- Built a modular, plug-and-play architecture that supports new AI capabilities through reusable workflow interfaces and scalable orchestration services.
+- Adapted a benchmark-evaluated deep-research architecture into a **multi-agent research system**, reducing manual research effort by approximately **70%**.
+- Integrated internal **OpenSearch** and external **Tavily** sources to generate comprehensive, evidence-informed research insights.
 
-**AI, Data & Cloud**  
+**Technologies:** Agentic AI, LLMs, LangChain, LangGraph, Hugging Face models, Azure OpenAI, AWS Bedrock, FastAPI, OpenSearch, PostgreSQL, Docker, Amazon EKS, Jenkins, AWS
+
+#### NCR Voyix — Data Scientist I
+*Mar 2023 – Oct 2025 · Gurugram, India*
+
+- Architected and deployed **ASK NCR Voyix**, a RAG-based AI assistant used by **5+ external customers** and internal teams globally.
+- Designed context-aware question answering with **LangChain, LangGraph, and Azure OpenAI**, grounding responses in enterprise content.
+- Developed scalable, microservice-based AI backends, including a vector-search indexing service for fast semantic retrieval.
+- Integrated **Azure Document Intelligence** into document-preprocessing workflows, improving data-indexing accuracy by **40%**.
+- Automated ingestion and continuous indexing with **Azure Databricks** for DocuSign and other document sources.
+- Implemented secure SSO using **OAuth 2.0 and Active Directory group-based access controls**.
+- Led technical design discussions, mentored teammates on GenAI architecture and tooling, and collaborated with product managers to align solutions with business goals.
+
+**Technologies:** Generative AI, Agentic AI, RAG, LLMs, BERT, LangChain, LangGraph, Python, PyTorch, Node.js, Express.js, Azure OpenAI, Azure AI Search, PostgreSQL, Cosmos DB, CI/CD
+
+### 🧠 Core Skills
+
+**AI Engineering**  
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-5C6BC0?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5C6BC0?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-6A5ACD?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Cloud, Search & Data**  
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Document Intelligence](https://img.shields.io/badge/Azure%20Document%20Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Document Intelligence](https://img.shields.io/badge/Azure%20Document%20Intelligence-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-5C6BC0?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6A5ACD?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Languages & Backend**  
+**Backend, Deployment & Delivery**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-00897B?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=flat-square)
 
-**Frontend & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+---
+
+<p align="center"><i>Interested in agentic systems, practical GenAI, and turning complex workflows into useful software.</i></p>
+
+<!-- Tip: Pin 3–6 repositories that demonstrate multi-agent AI, RAG/search, and production backend engineering. -->
