@@ -55,16 +55,3 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akash-yadav25&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Akash's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-yadav25&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-yadav25&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
-
-<!-- Tip: Pin 3–6 repositories that best demonstrate your AI, backend, and full-stack engineering work. -->
